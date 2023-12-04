@@ -1,6 +1,6 @@
 # Pipe: Angular-like string pipes
 
-> Angular-like string pipes
+> Angular-like string pipes for js/ts
 
 ## Table of Contents
 
